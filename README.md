@@ -1,0 +1,2 @@
+# SeniorSeminarB
+Mini Github Assignment
